@@ -1,0 +1,37 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: #9baed6;
+}
+
+.mybtn {
+  background-color: #3f5a74;
+  color: white;
+  border-radius: 0px;
+  padding: 20px;
+}
+
+.Mybtn {
+  background-color: #daf061;
+  color: black;
+  border-radius: 0%;
+  padding: 20px;
+}
+
+.danger {
+  border-radius: 0%;
+  padding: 20px;
+}
+.topDiv {
+  width: 27%;
+  height: 15%;
+  margin-left: 380px;
+  background-color: #3f5a74;
+  color: white;
+  font-size: 24px;
+  text-align: left;
+}
+
+.output {
+  text-align: right;
+}
